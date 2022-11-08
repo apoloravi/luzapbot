@@ -1,8 +1,8 @@
-Interactive CLI tool for installing and updating whaticket
+Ferramenta CLI interativa para instalar e atualizar o whaticket
 
-### download & setup
+##baixar e configurar##
 
-Firstly, you need to download it:
+Em primeiro lugar, você precisa baixá-lo:
 
 
 ```bash
