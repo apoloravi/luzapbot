@@ -37,11 +37,11 @@ print_banner() {
   printf "\n"
 
   printf "${GREEN}";
-  printf "██     ██ ██   ██  █████  ████████ ██  ██████ ██   ██ ███████ ████████\n";
-  printf "██     ██ ██   ██ ██   ██    ██    ██ ██      ██  ██  ██         ██   \n";
-  printf "██  █  ██ ███████ ███████    ██    ██ ██      █████   █████      ██   \n";
-  printf "██ ███ ██ ██   ██ ██   ██    ██    ██ ██      ██  ██  ██         ██   \n";
-  printf " ███ ███  ██   ██ ██   ██    ██    ██  ██████ ██   ██ ███████    ██   \n";
+  printf " Luchat | Marra Company     \n";
+  printf "   Site: https://luzap.net  \n";
+  printf "   WhastApp: 75981302884    \n";
+  printf "   Site Serviços em Nuvem: https://marracloud.com.br \n";
+  printf "   Instagram: @marracloudbr \n";
   printf "${NC}";
 
   printf "\n"
